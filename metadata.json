@@ -1,0 +1,6 @@
+{
+  "name": "VisionCare AI for DR",
+  "description": "Explainable AI-Assisted Diabetic Retinopathy Screening Platform using Retinal Fundus Images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
